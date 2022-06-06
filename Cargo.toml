@@ -15,4 +15,4 @@ readme = "README.md"
 [dependencies]
 rustc-serialize = "0.3.19"
 time = "0.1.26"
-openssl = "0.7.14"
+openssl = "0.10.9"
